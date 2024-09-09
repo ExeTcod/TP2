@@ -1,3 +1,1 @@
-"MiProyecto"
-
-Hola profe
+mi proyecto
